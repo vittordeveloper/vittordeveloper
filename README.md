@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Welcome to My Secondary Account!  
 
-<!--
-**vittordeveloper/vittordeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This is my secondary GitHub account, used for testing, side projects, and experimentation.  
 
-Here are some ideas to get you started:
+## 🔍 About Me  
+- 🎮 Gamer and tech enthusiast.  
+- 💻 Learning and building in **Python** and **ADS (Analysis and Development of Systems)**.  
+- 🌌 Sometimes, I go by the alias **Mighty** or **Vittor**.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 Focus Here  
+- 🛠️ Side projects and experiments.  
+- 🚀 Trying out new ideas without impacting my main account.  
+
+## 📫 Get in Touch  
+Check out my main account for my primary projects and portfolio:  
+[🔗 My Main GitHub Profile](https://github.com/brennovittor)
+
+---
+
+_"No pressure, just progress."_ 🚀
