@@ -5,7 +5,6 @@ This is my secondary GitHub account, used for testing, side projects, and experi
 ## 🔍 About Me  
 - 🎮 Gamer and tech enthusiast.  
 - 💻 Learning and building in **Python** and **ADS (Analysis and Development of Systems)**.  
-- 🌌 Sometimes, I go by the alias **Mighty** or **Vittor**.  
 
 ## 🌟 Focus Here  
 - 🛠️ Side projects and experiments.  
