@@ -18,6 +18,6 @@ Esse GitHub é focado em aprendizado e estudos.
 
 ## Status
 
-![Brenno Git Hub Status](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=tokyonight)
+![Brenno's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vittordeveloper&show_icons=true&theme=tokyonight)
 
-![Linguagens de Program.](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vittordeveloper&layout=compact&theme=tokyonight)
