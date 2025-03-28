@@ -1,19 +1,19 @@
-# 👋 Welcome to My Secondary Account!  
+# 👋 Seja bem vindo a Minha Conta Segundaria!  
 
-This is my secondary GitHub account, used for testing, side projects, and experimentation.  
+Foco e determinação.  
 
-## 🔍 About Me  
-- 🎮 Gamer and tech enthusiast.  
-- 💻 Learning and building in **Python** and **ADS (Analysis and Development of Systems)**.  
+## 🔍 Sobre mim  
+- 🎮 Gamer, amo jogar valorant no off.  
+- 💻 Atualmente estudando **Python** e cursando **Análise e Desenvolvimento de Sistemas**.  
 
-## 🌟 Focus Here  
-- 🛠️ Side projects and experiments.  
-- 🚀 Trying out new ideas without impacting my main account.  
+## 🌟 O que você vai encontrar aqui;
+- 🛠️ Projetos inacabados e meu aprendizado (no geral).  
+- 🚀 Ideias e posts sobre minha evolução.  
 
-## 📫 Get in Touch  
-Check out my main account for my primary projects and portfolio:  
-[🔗 My Main GitHub Profile](https://github.com/brennovittor)
+## 📫 Entre em contato comigo!  
+Minha conta principal há projetos pessoais (relevantes) e meu linkedin:  
+[🔗 GitHub Principal](https://github.com/brennovittor)
 
 ---
 
-_"No pressure, just progress."_ 🚀
+_"Foque no que você quer até dar certo."_ 🚀
