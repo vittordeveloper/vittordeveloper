@@ -1,19 +1,8 @@
-# 👋 Seja bem vindo a Minha Conta Segundária!  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=000000&width=435&lines=Me+chamo+Brenno%2C+seja+bem-vindo!)](https://git.io/typing-svg)
 
-Foco e determinação.  
+<img src="https://i.pinimg.com/originals/14/cc/ef/14ccef1a5384c184766a966eb7d03e68.gif" width="500" />
 
-## 🔍 Sobre mim  
-- 🎮 Gamer, amo jogar valorant no off.  
-- 💻 Atualmente estudando **Python** e cursando **Análise e Desenvolvimento de Sistemas**.  
+Olá! Esse é meu **GitHub secundário**.  
+Focado em **cibersegurança**, **Python** e **desenvolvimento web**.  
 
-## 🌟 O que você vai encontrar aqui;
-- 🛠️ Projetos inacabados e meu aprendizado (no geral).  
-- 🚀 Ideias e posts sobre minha evolução.  
-
-## 📫 Entre em contato comigo!  
-Minha conta principal há projetos pessoais (relevantes) e meu linkedin:  
-[🔗 GitHub Principal](https://github.com/brennovittor)
-
----
-
-_"Foque no que você quer até dar certo."_ 🚀
+📫 GitHub Principal: [https://github.com/brennovittor]  
