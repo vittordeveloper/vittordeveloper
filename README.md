@@ -1,8 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF0000&width=435&lines=Me+chamo+Brenno%2C+seja+bem-vindo!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&background=000000&center=true&width=435&lines=Me+chamo+Brenno%2C+seja+bem-vindo!)](https://git.io/typing-svg)
 
-<img src="https://i.pinimg.com/originals/71/48/c8/7148c82838437c6d8ad478848e68d482.gif" width="500" />
+<img src="https://i.pinimg.com/originals/45/77/a8/4577a8def9d27ea684867522207b24cc.gif" width="500" />
 
-Olá! Esse é meu **GitHub secundário**.  
-Focado em **cibersegurança**, **Python** e **desenvolvimento web**.  
+🎎 Olá! Aqui faço alguns commits de uns projetos inacabados/testes.  
+Esse GitHub é focado em aprendizado e estudos.  
 
-📫 GitHub Principal: [https://github.com/brennovittor]  
+🎴 GitHub Principal: [GitHub](https://github.com/brennovittor) 
