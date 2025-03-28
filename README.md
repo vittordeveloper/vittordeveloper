@@ -1,4 +1,4 @@
-# 👋 Seja bem vindo a Minha Conta Segundaria!  
+# 👋 Seja bem vindo a Minha Conta Segundária!  
 
 Foco e determinação.  
 
