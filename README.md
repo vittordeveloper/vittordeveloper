@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&background=000000&center=true&width=435&lines=Me+chamo+Brenno%2C+seja+bem-vindo!)](https://git.io/typing-svg)
 
-<img src="https://i.pinimg.com/originals/45/77/a8/4577a8def9d27ea684867522207b24cc.gif" width="500" />
+<img src="https://i.pinimg.com/originals/00/58/13/005813869c18f5ea253a4a3de5aa3892.gif" width="500" />
 
 Olá! Aqui faço alguns commits de uns projetos inacabados/testes.  
 Esse GitHub é focado em aprendizado e estudos.  
